@@ -5,8 +5,8 @@ part of 'xx_base.dart';
 /// Enjoy coding ☕
 
 final bool IS_DEVEL_MODE = true;
-var _BASE_URL_DEV = "https://tdev.kiriminaja.com/";
-var _BASE_URL_PROD = "https://tdev.kiriminaja.com/";
+var _BASE_URL_DEV = "https://dev.yourbaseurl.com/";
+var _BASE_URL_PROD = "https://yourbaseurl.com/";
 
 /// CONFIGS DATA
 class MyConfig {
