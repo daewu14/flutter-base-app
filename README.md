@@ -1,6 +1,6 @@
 # Base Flutter App
 *last update 19 Jul 2022*
-KiriminAja Flutter App Base Knowledge.
+Flutter App Base App.
 
 ## Architecture of folders
 **```base```**
